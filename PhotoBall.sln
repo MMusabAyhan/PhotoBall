@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhotoBall", "PhotoBall\PhotoBall.vcxproj", "{EA92D3CA-56FD-8741-9F3B-39E70BE56596}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{53E47842-3FC8-3998-A828-34EB942B241A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLFW", "PhotoBall\vendor\glfw\GLFW.vcxproj", "{154B857C-0182-860D-AA6E-6C109684020F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Glad", "PhotoBall\vendor\glad\Glad.vcxproj", "{BDD6857C-A90D-870D-52FA-6C103E10030F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stb_image", "PhotoBall\vendor\stb_image\stb_image.vcxproj", "{3096E6B0-9C00-9B27-E53E-4CCD51E8787C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JohnBufferPhysicsEngine", "JohnBufferPhysicsEngine\JohnBufferPhysicsEngine.vcxproj", "{4749D0F1-B380-1889-BC8A-7CAC28413F82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA92D3CA-56FD-8741-9F3B-39E70BE56596}.Debug|x64.ActiveCfg = Debug|x64
+		{EA92D3CA-56FD-8741-9F3B-39E70BE56596}.Debug|x64.Build.0 = Debug|x64
+		{EA92D3CA-56FD-8741-9F3B-39E70BE56596}.Release|x64.ActiveCfg = Release|x64
+		{EA92D3CA-56FD-8741-9F3B-39E70BE56596}.Release|x64.Build.0 = Release|x64
+		{154B857C-0182-860D-AA6E-6C109684020F}.Debug|x64.ActiveCfg = Debug|x64
+		{154B857C-0182-860D-AA6E-6C109684020F}.Debug|x64.Build.0 = Debug|x64
+		{154B857C-0182-860D-AA6E-6C109684020F}.Release|x64.ActiveCfg = Release|x64
+		{154B857C-0182-860D-AA6E-6C109684020F}.Release|x64.Build.0 = Release|x64
+		{BDD6857C-A90D-870D-52FA-6C103E10030F}.Debug|x64.ActiveCfg = Debug|x64
+		{BDD6857C-A90D-870D-52FA-6C103E10030F}.Debug|x64.Build.0 = Debug|x64
+		{BDD6857C-A90D-870D-52FA-6C103E10030F}.Release|x64.ActiveCfg = Release|x64
+		{BDD6857C-A90D-870D-52FA-6C103E10030F}.Release|x64.Build.0 = Release|x64
+		{3096E6B0-9C00-9B27-E53E-4CCD51E8787C}.Debug|x64.ActiveCfg = Debug|x64
+		{3096E6B0-9C00-9B27-E53E-4CCD51E8787C}.Debug|x64.Build.0 = Debug|x64
+		{3096E6B0-9C00-9B27-E53E-4CCD51E8787C}.Release|x64.ActiveCfg = Release|x64
+		{3096E6B0-9C00-9B27-E53E-4CCD51E8787C}.Release|x64.Build.0 = Release|x64
+		{4749D0F1-B380-1889-BC8A-7CAC28413F82}.Debug|x64.ActiveCfg = Debug|x64
+		{4749D0F1-B380-1889-BC8A-7CAC28413F82}.Debug|x64.Build.0 = Debug|x64
+		{4749D0F1-B380-1889-BC8A-7CAC28413F82}.Release|x64.ActiveCfg = Release|x64
+		{4749D0F1-B380-1889-BC8A-7CAC28413F82}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{154B857C-0182-860D-AA6E-6C109684020F} = {53E47842-3FC8-3998-A828-34EB942B241A}
+		{BDD6857C-A90D-870D-52FA-6C103E10030F} = {53E47842-3FC8-3998-A828-34EB942B241A}
+		{3096E6B0-9C00-9B27-E53E-4CCD51E8787C} = {53E47842-3FC8-3998-A828-34EB942B241A}
+	EndGlobalSection
+EndGlobal
