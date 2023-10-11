@@ -18,7 +18,7 @@ class PhysicObject;
 class Application 
 {
 public:
-	Application(const std::string& name = "2D Pyhsics Engine", unsigned int width = 800, unsigned int height = 800, const std::string& filePath = "resources/Images/SiskoMusab.jpg");
+	Application(const std::string& name = "PhotoBall", unsigned int width = 800, unsigned int height = 800, const std::string& filePath = "resources/Images/SiskoMusab.jpg");
 	~Application() = default;
 
 	void Run();
