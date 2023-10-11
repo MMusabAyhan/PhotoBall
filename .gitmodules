@@ -1,0 +1,6 @@
+[submodule "PhotoBall/vendor/glm"]
+	path = PhotoBall/vendor/glm
+	url = https://github.com/MMusabAyhan/glm.git
+[submodule "PhotoBall/vendor/glfw"]
+	path = PhotoBall/vendor/glfw
+	url = https://github.com/MMusabAyhan/glfw.git
