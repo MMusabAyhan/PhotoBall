@@ -2,7 +2,7 @@
 
 <a target="blank"><img align="center" src="https://github.com/MMusabAyhan/PhotoBall/blob/main/screenshots/PicklePhotoBall.png?raw=true" height="300" /></a>
 
-PhotoBall is an application that forms an image out of thousands of balls. User can select the image s/he prefers and then should choose the simulation way via the
+PhotoBall is an application that forms an image out of thousands of balls. User can select the image s/he prefers and choose the simulation way via the
 interface. After selections, click the Start Simulation button and ta-da!
 
 The application uses OpenGL for renderer and a simple 2D physics engine made by John Buffer for physics simulation (A physic engine based on verlet integration). And, for UI it utilizes ImGui.
