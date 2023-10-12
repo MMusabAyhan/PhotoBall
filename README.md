@@ -12,7 +12,9 @@ Some other libraries are also used for other features such as loading an image i
 ## How To Build
 
 1- Clone the repository recursively into your local directory. ( git clone --recursive https://github.com/MMusabAyhan/PhotoBall.git )
+
 2- Execute the batch file named "Win-Premake" inside the "scripts" folder. It should create all necessary libs and project files for the solution.
+
 3- You are all set. Now, you can open the solution file and check out the PhotoBall.
 
 ## Controls
