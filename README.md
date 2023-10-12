@@ -6,8 +6,14 @@
 PhotoBall is an application that forms an image out of thousands of balls. User can select the image s/he prefers and choose the simulation style via the
 interface. After selections are made, user can click the Start Simulation button and ta-da!
 
-The application uses OpenGL for renderer and a simple 2D physics engine made by John Buffer for physics simulation (A physic engine based on verlet integration). And, for UI it utilizes ImGui.
+PhotoBall uses OpenGL for renderer and a simple 2D physics engine made by John Buffer for physics simulation (A physic engine based on verlet integration). For UI, it utilizes ImGui ,and for building, the app uses premake.
 Some other libraries are also used for other features such as loading an image into a buffer, etc.
+
+## How To Build
+
+1- Clone the repository recursively into your local directory. ( git clone --recursive https://github.com/MMusabAyhan/PhotoBall.git )
+2- Execute the batch file named "Win-Premake" inside the "scripts" folder. It should create all necessary libs and project files for the solution.
+3- You are all set. Now, you can open the solution file and check out the PhotoBall.
 
 ## Controls
 
