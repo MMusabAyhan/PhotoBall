@@ -1,5 +1,7 @@
 # PhotoBall
 
+## General Description
+
 <a target="blank"><img align="center" src="https://github.com/MMusabAyhan/PhotoBall/blob/main/screenshots/PicklePhotoBall.png?raw=true" height="300" /></a>
 <a href="https://github.com/MMusabAyhan/PhotoBall/blob/main/screenshots/Pickle.gif?raw=true" target="blank"><img align="center" src="https://github.com/MMusabAyhan/PhotoBall/blob/main/screenshots/Pickle.gif?raw=true" height="300" /></a>
 
@@ -23,15 +25,15 @@ Unfortunately, PhotoBall is only supported in Windows.
 
 In case of an image formed in the wrong orientation, a simple control is added for the camera. These controls only valid when the simulation is in progress.
 
-Q - Turn 90 degree Left
+Q - Rotates camera 90° Clockwise
 
-E - Turn 90 degree Right
+E - Rotates camera 90° Anti-Clockwise
 
-WSAD - To move the camera around
+WSAD - Moves camera around
 
-Mouse Wheel - Zoom In/Out
+Mouse Wheel - Zooms In/Out
 
-Space - Reset View
+Space - Resets View
 
 ## Credits
 
