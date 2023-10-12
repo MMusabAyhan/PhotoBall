@@ -1,6 +1,7 @@
 # PhotoBall
 
 <a target="blank"><img align="center" src="https://github.com/MMusabAyhan/PhotoBall/blob/main/screenshots/PicklePhotoBall.png?raw=true" height="300" /></a>
+<a href="https://github.com/MMusabAyhan/PhotoBall/blob/main/screenshots/Pickle.gif?raw=true" target="blank"><img align="center" src="https://github.com/MMusabAyhan/PhotoBall/blob/main/screenshots/Pickle.gif?raw=true" height="300" /></a>
 
 PhotoBall is an application that forms an image out of thousands of balls. User can select the image s/he prefers and choose the simulation style via the
 interface. After selections, click the Start Simulation button and ta-da!
