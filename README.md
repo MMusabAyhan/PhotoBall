@@ -6,7 +6,7 @@ interface. After selections are made, click the Start Simulation button and ta-d
 The application uses OpenGL for renderer and a simple 2D physics engine made by John Buffer for physics simulation (A physic engine based on verlet integration). And, for UI it utilizes ImGui.
 Some other libraries are also used for other tasks such as loading an image into a buffer.
 
-<a href="" target="blank"><img align="center" src="https://github.com/MMusabAyhan/PhotoBall/blob/main/screenshots/PicklePhotoBall.png?raw=true" height="1000" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/MMusabAyhan/PhotoBall/blob/main/screenshots/PicklePhotoBall.png?raw=true" height="500" /></a>
 
 ## Controls
 
