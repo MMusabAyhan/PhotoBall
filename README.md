@@ -7,7 +7,9 @@ PhotoBall is an application that forms an image out of thousands of balls. User 
 interface. After selections are made, user can click the Start Simulation button and ta-da!
 
 PhotoBall uses OpenGL for renderer and a simple 2D physics engine made by John Buffer for physics simulation (A physic engine based on verlet integration). For UI, it utilizes ImGui ,and for building, it uses premake.
-Some other libraries are also used for other features such as Math(glm) and loading an image into a buffer, etc. Unfortunately, PhotoBall is only supported in Windows.
+Some other libraries are also used for other features such as Math(glm) and loading an image into a buffer, etc.
+
+Unfortunately, PhotoBall is only supported in Windows.
 
 ## How To Build
 
